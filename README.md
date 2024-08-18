@@ -1,4 +1,4 @@
-#Integrating Razorpay Payment Gateway with Java Spring Boot and JavaScript
+Integrating Razorpay Payment Gateway with Java Spring Boot and JavaScript
 
 Introduction
 In this project, we’ll walk through the process of integrating the Razorpay payment gateway into a Java Spring Boot application, with JavaScript handling the frontend interactions. Razorpay is a popular choice due to its comprehensive API, which supports multiple payment methods and offers robust features like webhooks and detailed transaction logs.
